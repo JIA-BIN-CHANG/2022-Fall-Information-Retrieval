@@ -1,0 +1,123 @@
+1 Set up the centrifuge to accommodate 15 ml conical tubes, and cool down to 4 °C.
+2 Sterilize biosafety cabinet using PREempt disinfectant solution and 70% ethanol (vol/vol).
+3 Obtain a bucket of ice.
+4 Thaw an appropriate number of Matrigel aliquots in a 4 °C fridge (1.2 ml Matrigel is required for a full 24-well plate of organoids droplets).
+5 Prepare base medium, colon organoid growth medium and washing medium as described in Table 2, Table 3 and Materials. For a full 24-well plate with organoid droplets, 15 ml of colon organoid growth medium is required.
+6 Obtain a cryovial of organoids from the liquid nitrogen tank, and place it into a 37 °C water bath. Hold in the water bath until thawed (~1 min).
+7 Bring the cryovial into the biosafety cabinet after spaying the outer surface with 70% ethanol.
+8 Add 1 ml of washing medium to the cryovial, resuspend the organoids gently and then transfer the content of the cryotube to the 15 mL conical tube that already contains 10 ml of washing medium. Fill the tube with additional washing medium up to 15 ml.
+9 Centrifuge at 500g for 5 min at 4 °C. During centrifugation, prepare the material for the subsequent steps: sterilize a glass dish with PREempt disinfectant solution and 70% ethanol. Add ice to 50–70% capacity of the glass dish, spray with 70% ethanol again and place the dish into the biosafety cabinet. Put Matrigel aliquots into the aluminum cooling block. Spray thoroughly with 70% ethanol, and place gently into the glass dish containing ice.
+10 After centrifugation, aspirate the supernatant (washing medium) with vacuum using a sterile Pasteur pipette.
+11 Resuspend the organoid pellet with 1.2 ml of Matrigel and seed 50 μl droplets into each well of an Olympus 24-well, tissue culture treated plate.
+12 Carefully transfer the plate(s) containing Matrigel droplets to the CO2 incubator. Incubate for 15–20 min to allow Matrigel gelation. After 15–20 min, check the Matrigel gelation by tilting the plates. If the Matrigel holds firm, they should be ready.
+13 Place the plate(s) inside the biosafety cabinet and add 600 μl of colon organoid medium to each well. Carefully dispense the medium into the side of the well to avoid disturbing the Matrigel droplet. At this point, organoids will be small. In some cases, it is possible to see fragmented organoids with an inverted bright-field microscope.
+14 After 3 d of culture, observe under an inverted microscope to ensure organoids have increased in size (>100 μm in diameter), and proceed with the organoid passaging protocol (e.g., if thawed on Friday, passage on Monday). 
+15 Set up the centrifuge to accommodate 15 ml conical tubes, and cool down to 4 °C.
+16 Repeat Steps 2 and 3.
+17 Check the organoid droplets under an inverted microscope to evaluate if the size of most organoids is >100 μm in diameter or larger. Estimate the split ratio to use for passaging organoids to calculate the amount of Matrigel to thaw.
+18 Thaw an appropriate number of Matrigel aliquots in a 4 °C fridge (1.2 ml Matrigel is required for a full 24-well plate of organoids droplets). Thaw 1.2 ml additional Matrigel in case a higher split ratio will be used.
+19 Prepare colon organoid growth medium (15 ml for every 24-well plate) by first making up base medium, as described in Table 2, and then using this as a component of colon organoid growth medium, made as described in Table 3. Alternatively, this medium can be prepared during CRS incubation (Step 24).
+20 Collect organoid droplets using the medium in which they are currently growing. Using a 1,000 μl pipette, set the pipette to 650 μl (there should be a maximum volume in each well of 50 μl Matrigel and 600 μl medium). Scrape the bottom of the well with the pipette tip to dislodge the Matrigel droplet before drawing up the medium. Place medium and organoids into a 15 ml conical tube. One 24-well plate of organoids should fit into one 15 ml conical tube.
+21 Centrifuge the collected Matrigel droplets at 1,000g for 5 min at 4 °C. After centrifugation, there should be ~1 ml Matrigel pellet per 24-well plate of organoid droplets collected.
+22 Aspirate the supernatant (spent organoid growth medium) with vacuum using a sterile Pasteur pipette.
+23 Resuspend the Matrigel pellet in CRS using a 1:10 dilution. For a full 24-well plate of organoids, use 12 ml of CRS. Resuspend the Matrigel droplet by gently inverting the 15 ml conical tube.
+24 Incubate the resuspended Matrigel in the ice bucket for 45–60 min, or until Matrigel is dissolved. Mix the Matrigel–CRS solution via gentle inversion every 10–15 min. Organoids will settle at the bottom of the tube when Matrigel is fully dissolved.
+25 Centrifuge at 1,000g for 5 min at 4 °C. After centrifugation, there should be a noticeable organoid pellet, ~200 μl volume of organoid, depending on the density of the original culture. During centrifugation, prepare the material for the subsequent steps: sterilize a glass dish with PREempt disinfectant solution and 70% ethanol. Add ice to 50–70% capacity of the glass dish, spray with 70% ethanol again and place the dish into the biosafety cabinet. Put Matrigel aliquots into the aluminum cooling block. Spray thoroughly with 70% ethanol, and place it into the glass dish containing the ice.
+26 Aspirate CRS using vacuum and a sterile Pasteur pipette. After aspiration, place the conical tube into the glass dish containing ice.
+27 Calculate the volume needed for the desired splitting ratio allowing 50 μl of Matrigel per well (i.e., 1.2 ml Matrigel per 24-well plate). A typical splitting ratio is 1:3 to 1:5, but this varies and depends on the density of the original culture, length of culture since original thaw, and donor intrinsic growth behavior.
+28 Keep the tube on ice, and resuspend the organoid pellet in a maximum of 1 ml of Matrigel. If the total volume required is <1 ml, add the required volume; for example, if 900 μl is needed to achieve the desired splitting ratio, add 900 μl.
+29 Bend a 1,000 μl pipette tip by pressing down the pipette tip on the inside of the cap for the conical tube. Use this bent tip to pipette the Matrigel suspension 25 times if organoids are in the first passage after thawing. Otherwise pipette the Matrigel suspension 50 times. After resuspension, check the level of organoid fragmentation under an inverted microscope. If further dissociation is needed, return conical tube to ice in the biosafety cabinet, continue pipetting with bent pipette tip 25 more times and reexamine under the microscope. Repeat until mostly fragments remain.
+30 Once organoids have been fragmented, add the remaining Matrigel needed (calculated in Step 27) to achieve the desired passaging ratio. Mix the Matrigel–organoid fragment suspension well before proceeding to the next step.
+31 Seed 50 μl droplets of the fragment suspension into each well of an Olympus 24-well, tissue culture treated plate.
+32 Carefully transfer the plate(s) containing Matrigel droplets to the CO2 incubator. Incubate the plates for 15–20 min to allow Matrigel gelation. After 15–20 min, check the Matrigel gelation by tilting the plates. If the Matrigel holds firm, they should be ready.
+33 Place the plate(s) in the biosafety cabinet. Add 600 μl of colon organoid medium to each well by carefully loading into the side of the well to avoid disturbing the Matrigel droplet.
+34 Incubate tissue culture plates in cell culture incubator at 37 °C, 95% air and 5% CO2 for 4 d (i.e., if passaged on Monday, move to next step to change medium on Friday).
+Colon organoid medium change ● Timing 0.5–1.5 h
+35 Sterilize biosafety cabinet with PREempt disinfectant solution and 70% ethanol.
+36 Prepare organoid growth medium (15 ml for every plate) according to Table 3. Medium should be prepared fresh each time, as the small molecules and proteins can become unstable if they remain in the medium for a long time.
+37 Carefully aspirate the medium from each of the wells using a vacuum aspirator and a sterile Pasteur pipette. When aspirating, tilt the plate toward yourself and press the pipette tip against the bottom
+of the well to avoid disrupting the Matrigel droplet adhered in the center of the well.
+38 Add 600 μl of medium per well by carefully loading into the side of the well to avoid disturbing the Matrigel droplet.
+39 Place plate back into incubator. Generally, organoids are ready for both passaging and monolayer seeding 3 d later (7 d after seeding). 
+40 Obtain a bucket of ice, and keep the collagen I on ice
+41 Sterilize biosafety cabinet using PREempt disinfectant solution and 70% ethanol.
+42 Prepare a coating solution containing 50 μg/ml collagen I in PBS−/−. For 12-well Transwells, add 300 μl of coating solution on the apical side and 1,200 μl on the basolateral side.
+43 Incubate the Transwells at 37 °C for at least 2 h to allow collagen coating to occur. Organoid collection, single cell dissociation and monolayer seeding
+44 Prepare colon monolayer seeding medium as described in Table 4. At least 2 ml should be made for each Transwell plus an additional 1–2 ml for cell counting. Alternatively, medium can be prepared during CRS incubation (Step 46).
+45 Collect organoids as described in Steps 20–23.
+46 After resuspending in CRS, incubate on ice for 45–60 min, or until Matrigel is dissolved. Resuspend the Matrigel via gentle inversion every 10–15 min, and proceed to the next step 15 min before the end of incubation.
+47 With 15 min remaining for the CRS incubation, place a 1× Trypsin/EDTA aliquot into a 37 °C water bath.
+48 Centrifuge organoids from Step 46 at 1,000g for 5 min at 4 °C. After centrifugation, there should be a noticeable organoid pellet, ~50–200 μl in size depending on the density of the original culture.
+49 During centrifugation, place prewarmed trypsin/EDTA and washing medium inside the biosafety cabinet. Make aliquots of 15 mL of washing medium. One 15 mL aliquot is needed per plate of organoid culture.
+50 After centrifugation, place the 15 ml conical tube containing the organoids inside the biosafety cabinet, and aspirate the CRS using vacuum and a sterile Pasteur pipette.
+51 Resuspend the organoid pellet in 1 ml prewarmed trypsin/EDTA via short and quick repeat pipetting. Incubate the organoid pellet in a 37 °C water bath for 5 min.
+52 After incubation in trypsin/EDTA, take the 15 mL conical tube inside a biosafety cabinet to initiate single cell preparation. To break up the organoids, first prewet a 1,000 μl pipette tip in washing medium, then bend the pipette tip by pressing the tip on the inside of the 15 ml conical tube cap. Finally, to dissociate the organoids and generate single cells, pipette the organoids 50 times and then inspect under the microscope for single cells. If a substantial number of organoids and/or fragments remains, pipette with a bent tip for an additional 50 times before evaluating again. Repeat cycles of pipetting 50 times until the suspension is primarily single cells. With a new (nonbent) pipette tip, add washing medium to the cell suspension to neutralize the trypsin/EDTA. If cell dissociation resulted in a single-cell suspension in the previous step, use a serological pipette to add a sufficient volume of washing medium to the cell suspension to reach 15 ml. If cell dissociation did not reach single-cell suspension, add 1 ml of washing medium to the cell suspension, and continue pipetting with a bent pipette tip until a single-cell suspension is reached. Then, use a serological pipette to add a sufficient volume of washing medium to the cell suspension to reach 15 ml.
+53 Centrifuge single-cell suspension at 400g for 5 min at 4 °C.
+54 Aspirate and discard the supernatant using vacuum and a sterile Pasteur pipette.
+55 Resuspend the cell pellet in 1 ml of colon monolayer seeding medium. Take a 15 μl aliquot of the cell suspension to determine cell density.
+56 Add 15 μl of Trypan Blue to the 15 μl aliquot cell suspension, and mix well via repeated pipetting. Count cells and assess viability by adding 10 μl of the suspension to each side of a disposable Countess chamber slide and inserting into Countess machine. Determine cell density from both sides of the slide, and record live cell density and % viability.
+57 Calculate the total number of cells needed from the cell suspension to seed the desired number of monolayers. For 12-well Transwells inserts seed 3.0 × 105 cells per Transwell. Alternatively, in case of low density during single cell preparation, seed 2.5 × 105 cells per Transwell insert.
+58 From the original single cell preparation, transfer the volume of cells needed for seeding to a new 15 ml conical tube. Add additional colon monolayer seeding medium to reach necessary density for seeding Transwells. For 12-well Transwells, 0.5 ml per well is needed, which is equivalent to a density of 6 × 105 cells/ml.
+59 Bring the coated Transwells from Step 43 from the incubator into the biosafety cabinet. Completely aspirate the coating solution from both sides of the Transwells. Rinse each Transwell at least once with PBS−/−. For 12-well Transwells, rinse with 1 ml on the apical side and 2 ml on the basolateral side.
+60 Mix the single cell suspension well via repeated pipetting to get it ready for seeding into Transwells. Remove the PBS−/− from the apical side of each Transwell insert prior to the addition of the cell suspension. For 12-well Transwells, add 0.5 ml of the cell suspension into the apical side.
+61 Add colon monolayer seeding medium to the basolateral side of each Transwell. For 12-well Transwells, add 1.5 ml of medium per Transwell.
+62 Place the seeded Transwells in a 37 °C incubator at 5% CO2. Inspect the Transwells every day under an inverted bright-field microscope for confluency.
+63 Make aliquots of base medium and PBS−/−. Typically, 45 ml of base medium and 40 ml of PBS−/− should be sufficient for one 12-well plate of monolayers. Prewarm the aliquots in a 37 °C water bath for ~10 min.
+64 To disinfect the tweezers needed for Transwell manipulation during TEER measurement, prepare two 45 ml aliquots of 70% ethanol in 50 ml conical tubes.
+65 Place a pair of long tweezers in one of the 70% ethanol aliquots for sterilization.
+66 Prepare colon monolayer differentiation medium according to ‘Reagent setup’ and Table 5.
+67 If the cover to the EndOhm cup chamber is held shut with tape or parafilm, remove the cover. Spray the outer surface of the chamber and connecting wires thoroughly with 70% ethanol. Avoid getting excessive amounts of ethanol on the ends of the wire, as this can cause inaccurate measurements at later steps. Open the chamber, and spray 70% ethanol on both the bottom and inside of the cap.
+68 Bring the EndOhm chamber into the biosafety cabinet, leaving the end of the wire that connects to the Ohmmeter outside the cabinet.
+69 Place the Ohmmeter next to the biosafety cabinet (on a small, portable table), and connect the wire to the Ohmmeter. Keep the Ohmmeter turned off.
+70 Rinse the EndOhm chamber with 6 ml of 70% ethanol, and then fill with 6 ml of fresh 70% ethanol and let it sit for at least 5 min.
+71 Aspirate the 70% ethanol completely from the EndOhm chamber. Wash and rinse the chamber completely at least three times as follows: after removing the 70% ethanol, wash the EndOhm chamber once with 6 ml of prewarmed PBS−/−, then fill the chamber with 6 ml of pre-warm PBS−/−. Let it sit for 2 min. Aspirate the PBS−/−, then wash again with 6 ml of PBS−/−. After this wash, add 3 ml of PBS−/− to the EndOhm chamber, place the top cover on top of the chamber and set aside.
+72 Turn on the Ohmmeter and record the background measurement when in PBS−/−. The background measurement will vary because of a wide range of factors, and readings from −5 Ω to +5 Ω are acceptable for the 12-well chamber.
+73 After recording the ohms background, aspirate the PBS−/− from the chamber. Rinse completely with 6 ml of prewarmed base medium at least three times.
+74 Remove tweezers/forceps from 70% ethanol. Allow the alcohol to evaporate from the forceps inside the biosafety cabinet, making sure the tweezers/forceps tips are away from any surface.
+75 Using a vacuum aspirator and Pasteur pipette, aspirate the medium from both apical and the basolateral side of the Transwells. Tilt the plate toward yourself, and aspirate with the pipette tip pressed against the bottom of the well in the basolateral side. Completely aspirate the basolateral side of every Transwell first, then go back and aspirate the apical side of each Transwell. This order of aspiration is recommended by the Transwell manufacturers.
+76 Add base medium to the apical side of each Transwell. For 12-well Transwells, add 500 μl to the apical side.
+77 Add base medium to the basolateral side of the Transwells. For 12-well Transwells, add 1.5 ml to the basolateral side.
+78 Using the alcohol-sterilized and dried forceps, carefully pick up a Transwell and place it into the EndOhm chamber. Record the TEER measurement, then carefully place the Transwell back into the 12-well plate. Repeat for all Transwells.
+79 At the end of all TEER measurements, aspirate the medium from the basolateral side, and add colon monolayer differentiation medium. For 12-well Transwells, 1.5 ml colon monolayer differentiation medium is required per well.
+80 Return the monolayers to the incubator, and check the monolayers under an inverted microscope every day to inspect the confluency. Repeat Steps 63–79 at preferred timepoints; we generally measure TEER on day 3 after seeding (i.e., if seeded on Mondays, TEER measurement take place on Thursdays). Proceed to the next step to prepare bacteria at day 4 after monolayer seeding, i.e., if seeded on Mondays, bacteria culture preparation starts on Fridays, so that the bacteria and monolayers will be ready for coculture at the same time.
+81 Place the bacterial glycerol stocks in a cold metal block in an anaerobic workstation. If you wish to replicate our study10, use B. thetaiotaomicron strains MT768, MT798, MT799 and MT800.
+82 Use a disposable inoculating loop to scrape the top of the glycerol stock, and inoculate the scraped ice onto the YCFA agar plate, invert the agar plate, seal it into a plastic bag and place it into the incubator (37 °C) inside the anaerobic workstation for 24–36 h.
+83 After incubation for colony formation, use a disposable inoculating loop to pick one colony, and inoculate it into liquid YCFA medium (~7 ml) and place it into the incubator (37 °C) inside the anaerobic workstation for 24 h.
+84 The next day, subculture the bacteria using a 1:1,000 dilution, and let it grow overnight. Once it has been incubated overnight, the bacterial culture is ready to use.
+85 To determine the bacterial colony-forming unit (CFU) bring a 96-well plate into the anaerobic workstation, and add 90 μl of prereduced YCFA medium or DPBS+/+ buffer into each well.
+86 Use a 10 μl pipette to transfer 10 μl of bacterial culture into each well of the first row (row A), mix thoroughly and make a serial dilution with rows A–H to cover dilution of 10−1 to 10−8 (Supplementary Fig. 1).
+87 Use a multichannel pipette to transfer 2 μl of the diluted bacterial culture from all eight wells (rows A–H) onto a prereduced YCFA agar plate (Supplementary Fig. 1). Culture the plate anaerobically for 24 h at 37 °C.
+88 The next day, inspect the agar plate and count the bacterial colonies from wells in which the colonies can be easily counted with the naked eye. Record the number of colonies as N.
+89 Calculate the bacterial CFU per ml of original culture using the following formula: CFU/ml = N × 10(dilution) × 500.
+90 To determine bacterial growth over time, repeat Steps 86–89 during bacterial growth of each strain in Step 84 every 2–3 h. Record the OD600 value, and calculate the CFU of 200 μl culture from the same bacterial culture at each time point.
+91 Generate a standard curve by plotting the OD600 values and the bacterial concentration (CFU/ml) (Supplementary Table 1 contains an example of data we obtained). Coculture of monolayer with bacteria
+92 Carefully aspirate the apical medium from each of the wells of the plates from Step 80 using a
+vacuum aspirator and Pasteur pipette tip.
+93 Sterilize the outer surface of the overnight-grown bacterial culture tubes from Step 84 and the prereduced YCFA medium with 70% ethanol, and bring them into the biosafety cabinet.
+94 Make a 1:100 dilution of the overnight-grown bacterial culture from Step 93 with prereduced YCFA medium. Add 500 μl of the diluted bacteria culture onto the apical side of the monolayer, and immediately put the covered monolayer back into the incubator (5% CO2, 37 °C) for 2 h.
+95 After 2 h, remove the plate containing coculture of monolayer and bacteria from the incubator. Use a 1,000 μl pipette to transfer the apical medium from each well into a new 24-well tissue culture plate, and set aside. Also set aside the Transwell for further use.
+96 Add an appropriate inducer into the apical medium collected in the 24-well tissue culture plate, and mix it thoroughly but gently.
+97 Use a 1,000 μl pipette to transfer the inducer-containing apical medium back onto the corresponding monolayer. Continue the coculture in the incubator (5% CO2, 37 °C) for another 6 h.
+98 After an additional 6 h, use a 1,000 μl pipette to withdraw 450 μl of the apical medium from the top of each well and transfer to a new 24-well plate. c CRITICAL Again, record which monolayer the medium was removed from. Transfer 200 μl into a transparent 96-well plate for OD600 measurement.
+99 Use a 200 μl pipette to transfer the residual medium (~50 μL) containing the bacterial cells settling on the surface of the epithelial cells into another new 24-well tissue culture plate.
+100 Use a 20 μl pipette to take 20 μl of residual medium from Step 99, and dilute it into a transparent 96-well plate; make 1:10 dilutions with prereduced YCFA ready for OD600 measurement.
+101 Use a 20 μl pipette to take 15 μl residual medium from Step 99, and mix it with 15 μl of Nanoluc reaction buffer (Promega Nano-Glo Luciferase System N1120).
+102 Measure the luminescence of the plate prepared in Step 101, and measure the OD600 of the plate prepared in Step 100. For luminescence, we used a Synergy H1 Hybrid Reader.
+103 Calculate the CFU for each sample from Steps 100 and 102 by comparing the OD600 readings obtained with the standard curve generated in Step 91 (Supplementary Table 2 contains an example of data we have obtained).
+104 Calculate the relative luminescence unit (RLU) by dividing the raw luminescence values obtained from the samples prepared in Step 102 by the CFU obtained from Step 102 and standard curve from Step 91.
+105 Normalize the RLU value to RPUL by dividing the RLU values of target strain by that of an RPUL standard strain. For example, we divide the RLU values B. thetaiotaomicron strain MT798, MT799 and MT800 by that of the B. thetaiotaomicron strain MT768 (Supplementary Table 2 contains an example of these calculations).
+106 Aspirate the residual apical and basolateral medium from the plate from Step 99, and replace them with 150 μl and 500 μl of fixative solution (4% (vol/vol) paraformaldehyde in DPBS−/−) into the apical and basolateral sides, respectively. Incubate at room temperature (20 ± 5 °C) for 10 min.
+107 Manually aspirate the fixative solution using a 1,000 μl pipette.
+108 Add 150 and 500 μl of 0.2% (vol/vol) Triton-X into the apical and basolateral sides, respectively, and incubate at room temperature for 10 min.
+109 Aspirate the Triton-X solution using a 1,000 μl pipette.
+110 Prepare a staining solution by diluting Phalloidin-iFluor 488 and DAPI (both 1:1,000 dilution) in Blockaid solution.
+111 Add 200 μl and 1 ml staining solution into the apical and basolateral sides, respectively. Cover the plate with aluminum foil, and incubate overnight at 4 °C.
+112 Aspirate the staining solution using a 1,000 μl pipette.
+113 Gently add 300 μl DPBS−/− to the apical side and 1.5 ml to the basolateral side, and incubate at room temperature for 5 min.
+114 Aspirate the DPBS−/− using a 1,000 μl pipette.
+115 Flip the Transwell insert, and place it firmly on a flat surface.
+116 Use a scalpel cut the whole membrane containing the stained epithelial and bacterial cells.
+117 Transfer the membrane to a glass slide with a tweezer.
+118 Add one drop of ProLong Gold antifade reagent onto the membrane.
+119 Mount a cover slip on top of the membrane.
+120 Seal the glass-membrane-cover slip sandwich by placing coverslip sealant on the edge of the cover slip. Wait ~15 min to allow the sealant to dry prior to imaging.

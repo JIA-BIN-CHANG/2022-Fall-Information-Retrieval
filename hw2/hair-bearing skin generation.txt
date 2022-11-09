@@ -1,0 +1,155 @@
+1 Prepare a vitronectin-coated six-well plate and a water bath at 37 °C.
+2 Prepare E8 + 10Y by adding 13 μL of Y-27632 (Y) to 13 mL of E8 in a 15 mL tube.
+3 Invert the tube to mix well, and prewarm the E8 + 10Y at RT for 20 min.
+4 Meanwhile, label the lid of the six-well plate with cell line information, including the passage number written on the frozen vial.
+5 From the precoated plate in Step 1, aspirate out the vitronectin solution and immediately add 1.5 mL of the E8 + 10Y into each well.
+6 Take out the frozen cell vial from dry ice, add 500 μL of prewarmed E8 + 10Y and then thaw in a 37 °C water bath by giving a gentle swirl until a small piece of floating ice is observed.
+7 Bring the vial to the biosafety cabinet and spray with 70% ethanol. Using a p1000 W-O tip, give a gentle pipetting and collect the whole volume into a new 15 mL conical tube.
+8 Rinse the vial that formerly contained the cells with 1 mL of E8 + 10Y using a p1000 W-O tip to collect any residual cells and transfer the volume to the 15 mL tube where cells are collected in Step 7.
+9 Make a final volume to ~5.5 mL by adding 4 mL of E8 + 10Y to the 15 mL tube in Step 8.
+10 Pellet the cells by centrifugation at a speed of 230g for 5 min 30 s at RT (20–25 °C).
+11 Carefully aspirate out the medium and add 750 μL of E8 + 10Y.
+12 Using a p1000 W-O tip, give gentle pipetting to resuspend the cell pellet and add an additional 750 μL of E8 + 10Y to make a total volume of 1.5 mL, considering that the cells will be distributed in 500 μL per well to three wells. Give gentle pipetting to mix well.
+13 Add 500 μL of the cell suspension in a drop-wise manner to the first well of the six-well plate prepared in Step 5, making a final volume of 2 mL in a well. Gently swirl and shake the plate to evenly distribute cells.
+14 Check the cell seeding density under the microscope. See Fig. 7a as a reference. The recommended cell seeding density per well is ~7 × 105 cells per well of a six-well plate. Visually, under the microscope, floating cells appear to occupy ~50–55% of the area of a well when they adhere on the plate.
+15 Incubate cells in a 37 °C incubator with 5.0% CO 2.
+16 The next day (after 24 h), replenish medium with fresh E8 without Y (only E8 Flex medium containing normocin) and maintain the cells as mentioned in ‘Maintenance’.
+17 Prewarm E8 at RT for 15–20 min.
+18 Replenish spent medium with E8 every other day by carefully aspirating spent medium.
+19 Gently add 2 mL of E8 per well, toward the wall of each well using a 5 mL serological pipette. Increasing the E8 volume to 3 mL per well or replenishing E8 every day may be required as cells become confluent. When the cell confluency reaches ~75–80% in a well (see Fig. 7c for a reference image), generally every 4–5 d, the cells are ready to undergo the passaging process.
+20 Prepare a vitronectin-coated six-well plate.
+21 Prepare 17 mL of E8 + 10Y, and prewarm at RT for 20 min.
+22 Equilibrate the accutase to RT (or prewarm at 37 °C) for ~15 min.
+23 When Steps 20–22 are ready, aspirate out the vitronectin solution from the six-well plate and immediately add 1.5 mL of E8 + 10Y into each well.
+24 From the well where cells have reached 75–80% confluency, carefully aspirate out the spent medium.
+25 Wash two times with 2.5 mL of 1× DPBS using a serological pipette.
+26 After aspirating out the last washing solution, add 500 μL of prewarmed accutase solution using a p1000 regular tip to the center of the well.
+27 Gently swirl the plate to make sure that the solution fully covers the surface of the well.
+28 Incubate the plate in a 37 °C incubator for a total of 3–5 min depending on cell line. After 2–3 min, check under a microscope to see if the cells are rounding up and the cell colonies are detaching from the plate; gently rock the plate back and forth to make the loosen up cell colonies detach from the plate. If the cells are still attached on the surface of the plate, give an extra incubation with an increment of 20 s.
+29 Once the cell colonies are almost all detached, tilt the plate at ~45° angle and give a gentle window-wiper-like motion pipetting using a p1000 W-O tip to detach any cell colonies that are still slightly adhering on the surface.
+30 Keeping the plate angled at 45°, collect all detached cells and transfer to a 15 mL tube.
+31 Using a p1000 W-O tip, gently pipette to break down cell clumps into evenly sized tiny clusters (average six cells per cluster) within the cell suspension.
+32 Using a 5 mL serological pipette, slowly add 5 mL of E8 + 10Y to the 15 mL tube containing cell clusters in Step 31, making a final volume of 5.5 mL.
+33 Centrifuge at 230g for 5 min 30 s at RT.
+34 Carefully aspirate out the medium containing the accutase solution; remove as much as possible by tilting the tube to ~45° angle as the remaining volume in the tube decreases during aspiration.
+35 Using a p1000 W-O tip, add 1 mL of E8 + 10Y and gently pipette up and down to resuspend the cell cluster pellet.
+36 Using a 5 mL serological pipette, slowly add an extra 5 mL of E8 + 10Y (making a total volume of 6 mL) and gently pipette the entire cell cluster suspension twice to mix well. Note that, depending on the cell density in the tube, the final volume of cell suspension E8 + 10Y varies. The cell density in the tube can be predicted by the initial cell confluency in a well where the passaging process has initiated from and by the pellet size after the centrifugation in Step 33. If the cell confluency in a well was ~80% as shown in Fig. 7c, resuspend the cell pellet at a final volume of 6 mL. If the cell confluency was lower than the Fig. 7c representative image (e.g., 75% or less), resuspend the cells at a final volume of 5 mL or less.
+37 Using a 5 mL serological pipette, add five drops of cell cluster suspension into the first well of the six-well plate prepared in Step 23.
+38 Gently swirl and shake the plate to evenly distribute the cell clusters within the well.
+39 Check under the microscope and see if the cell seeding density is ~50% in the first well and the cell clusters are on average six-cell-sized. See Fig. 7a for a reference image.
+40 According to the number of drops of cell cluster suspension added to the first well, add a sequentially decreasing number of cell cluster suspension drops to the following two wells. For example, if five drops of the cell cluster suspension were added in Step 37 (e.g., 50% cell density), add four drops (45%) to the second well and three drops (40%) to the third well.
+41 Gently swirl and shake the plate to evenly distribute the cell clusters in each well.
+42 Incubate cells in a 37 °C incubator with 5.0% CO2.
+43 The next day (after 24 h), replenish medium to fresh E8 without Y and maintain the cells as mentioned in ‘Maintenance’ until they are ready to be passaged or used for differentiation experiments.
+44 Prechill the freezing containers in a 4 °C fridge or a −80 °C freezer, according to the manufacturer’s instructions.
+45 Label cryovials with cell line information, passage number, freezing date and the initial of the person’s name who is freezing the cells. Prechill the labeled cryovials in −20 °C for at least 1 h.
+46 Prepare 2 mL of freezing medium by adding 200 μL of DMSO (10%, vol/vol) to 1.8 mL of E8 in a 2 mL tube, and keep on ice to keep cold.
+47 Prewarm accutase and 6 mL of E8 + 10Y at RT for 15–20 min.
+48 When ready, proceed with the same procedure as passaging steps Steps 24–34. Keep cell cluster sizes bigger (average ten cells per cluster) than during the normal passaging process to increase the viability of cells after freezing and thawing.
+49 To the final cell cluster pellet, add 1 mL of the prechilled freezing medium, and resuspend the pellet by gentle pipetting using a p1000 W-O tip.
+50 Using a p1000 W-O tip, add an additional 800 μL (the rest of the volume needed for freezing total nine vials, 1.8 mL) of prechilled freezing medium and gently pipette up and down to mix well. Keep the cell suspension on ice while uncapping the prechilled cryovials.
+51 Uncap the prechilled cryovials in the biosafety cabinet.
+52 Once all the cryovials are uncapped, using a p1000 W-O tip, give a final gentle pipetting to evenly mix the whole volume of the cell cluster suspension prepared in Step 50 and distribute in 200 μL volume per prechilled cryovial.
+53 Transfer all cryovials to the prechilled freezing containers, and store them in a −80 °C freezer overnight. For long-term storage, transfer the frozen cryovials to a liquid nitrogen tank within 72 h post-freezing process.
+54 Media and enzyme preparation. Prepare 10 mL of E8 + 10Y in a 15 mL conical tube and 22 mL of E8 + 20Y in a 50 mL conical tube. Then, equilibrate prepared media to RT.
+55 Prewarm accutase at RT.
+56 Cell dissociation. Aspirate out the spent medium of the cells in one well of a six-well culture plate.
+57 Carefully wash with 2.5 mL of 1× DPBS twice and aspirate out the 1× DPBS from the last wash.
+58 Add 500 μL of prewarmed accutase, and incubate for 3–4 min in a 37 °C incubator with 5.0% CO 2 . After 2–3 min of the first incubation, gently rock and shake the plate to detach any loosened up cells that are still adhering on the surface of the plate. Check under a microscope to confirm the detachment. If cell colonies are still attached tightly, incubate for further 20 s increments.
+59 When the cell colonies are all detached, gently and briefly pipette to break down cell clumps into single cells using a p1000 regular tip.
+60 Transfer the cell suspension into a 15 mL conical tube.
+61 Using a 5 mL serological pipette, add 5 mL of E8 + 10Y to the 15 mL tube that contains cell suspension from Step 60 and gently pipette to mix and break up any cell clusters into single cells.
+62 Centrifuge at 230g for 5 min 30 s at RT.
+63 Carefully and almost completely aspirate out supernatant by tilting the tube to an angle and aspirating with the medium flowing away from the cell pellet.
+64 Using a p1000 regular tip, resuspend the cells in 1 mL of E8 + 10Y by gentle pipetting.
+65 Cell aggregation. To equilibrate the 35 μm mesh cell strainer, forcefully pipette 1 mL of E8 + 10Y through the strainer mesh.
+66 Transfer resuspended cells in E8 + 10Y in Step 64 to the cell strainer prepared in Step 65 in a dropwise manner.
+67 To thoroughly collect cells, rinse the tube that formerly contained cells with 1 mL of E8 + 10Y and transfer the volume to the cell strainer in a drop-wise manner.
+68 Carefully remove and discard the snap cap part of the cell strainer.
+69 Determine the number of live cells that are collected in the Step 67 tube as follows: 
+69.1 Prepare 50 μL of trypan blue in a 500 μL tube. 
+69.2 Using a p1000 regular tip, gently pipette to mix the cells evenly in the tube. 
+69.3 Immediately, using a p200 regular tip, collect 50 μL of cell suspension from the center of the volume in the tube, and transfer it into the 50 μL of prepared trypan blue. This makes a 1:1  dilution of the cells in trypan blue. 
+69.4 Gently pipette to mix the cells evenly with trypan blue. 
+69.5 Add 11 μL of the cell–trypan blue mixture into both sides of a cell counting chamber slide for Invitrogen Countess II automated counter or on the hemocytometer.
+69.6 Record the number of live cells per 1 mL shown on the automated counter. The Invitrogen Countess II automated counter gives automatically calculated cell numbers considering the trypan blue dilution. When manually counting the live cell number, be sure to incorporate trypan blue dilution in the calculation by multiplying by 2 (diluted factor)
+69.7 Calculate the number of cells needed for a differentiation experiment. The final cell concentration of 35,000 cells per mL (3,500 cells in 100 μL per well) is needed for a differentiation culture. Therefore, 7.7 × 10 5 cells are needed in 22 mL
+69.8 Then, calculate the volume of single-cell suspension needed for the experiment (7.7 × 10 5 cells in 22 mL). For example, if the readout of the live cell number from the automated cell counter was 5 × 105 cells per mL, 1.54 mL of the cell suspension is needed in 22 mL. Equation: Volume of cell suspension needed for differentiation (mL) = total number of cells needed for differentiation (7.7 × 10 5 cells)/number of cells in 1 mL of cell suspension (5 × 10 5 cells) = 7.7 × 10 5 cells/ 5 × 10 5 cells = 1.54 mL.
+70 Based on the cell number calculation, remove the same volume of cell suspension that is needed for the experiment from 22 mL of E8 + 20Y prepared in Step 54. Then add the calculated volume of the cell suspension to the E8 + 20Y; i.e., remove 1.54 mL of E8 + 20Y from the 22 mL of E8 + 20Y prepared in Step 54, and add 1.54 mL of cell suspension prepared in Step 67 to the 20.46 mL of E8 + 20Y, which brings the final cell concentration to 7.7 × 105 cells in a total volume of 22 mL.
+71 Invert a couple of times to mix the cell suspension evenly.
+72 Pour the 22 mL cell suspension into a 25 mL reservoir.
+73 Using a multichannel pipette, aliquot 100 μL of cell suspension into each well of 96-well U-bottom plates.
+74 Centrifuge the plates at 110g for 6 min at RT.
+75 Incubate the plates in a 37 °C incubator with 5.0% CO 2 for 24 h.
+76 Prepare and prewarm 22 mL of fresh E8 (without Y).
+77 Pour 22 mL of fresh E8 into a 25 mL reservoir.
+78 Using a multichannel pipette, add 100 μL of E8 into each well, which brings the total volume to 200 μL per well.
+79 Incubate the plates in a 37 °C incubator with 5.0% CO 2 for 24 h.
+80 Thaw 600 μL of Matrigel on ice overnight at 4 °C to be ready for the next step.
+81 Prepare 3 mL of E6 in a 15 mL Falcon tube for the washing step.
+82 Prepare 30 mL of E6SFB and keep on ice.
+83 Collect all aggregates from 96-well U-bottom plates to a 2 mL round-bottom tube as follows.
+83.1 Using p200 W-O tips and a multichannel pipette—set the pipette to 180 μL (i.e., ~20 μL less than the total volume in each well)—collect all aggregates in a 100 mm Petri dish.
+83.2 By gently swirling the Petri dish on a flat surface, concentrate all aggregates to the center of the dish.
+83.3 Using a p1000 W-O tip, collect all aggregates into a 2 mL round-bottom tube.
+84 When all aggregates settle at the bottom of the tube (typically takes <20 s), carefully remove excessive E8 from the tube.
+85 Wash with 1 mL of E6 three times to completely remove traces of E8.
+86 Add 1 mL of E6SFB to the tube containing aggregates.
+87 Place a new 100 mm Petri dish on ice, and add ~15 mL of E6SFB.
+88 Using a p1000 W-O tip, transfer all aggregates that are prepared in Step 86 to the Petri dish containing 15 mL of E6SFB on ice.
+89 Use an extra 1 mL of E6SFB to collect and transfer any remaining aggregates in the tube to the Petri dish.
+90 Using a p200 W-O tip, transfer individual aggregate in 100 μL of E6SFB into each well in a new 96-well U-bottom plate (pour in more E6SFB to the Petri dish as it goes).
+91 Incubate in a 37 °C incubator with 5.0% CO2.
+92 Monitor morphological changes every day.
+93 Prepare 5 mL of E6LF, and prewarm at RT.
+94 Pour 5 mL of the E6LF into a 10 mL reservoir.
+95 Using a multichannel pipette, add 25 μL of the E6LF per well into each well of 96-well U-bottom plates, making a final volume of 125 μL per well.
+96 Gently tap the plates to mix the medium.
+97 Incubate in a 37 °C incubator with 5.0% CO2 .
+98 Monitor morphological changes every day.
+99 Prepare and prewarm 11 mL of E6 at RT.
+100 Pour 11 mL of the E6 into a 10 mL reservoir.
+101 Using a multichannel pipette, add 75 μL per well into each well of 96-well U-bottom plates, making a final volume of 200 μL per well.
+102 Gently tap the plates to mix the medium.
+103 Incubate in a 37 °C incubator with 5.0% CO 2.
+104 Monitor morphological changes every day.
+105 Prepare and prewarm 14 mL of E6 at RT.
+106 Using p200 W-O tips and a multichannel pipette, very carefully at ~60° angle, remove 100 μL of spent medium from each well of the 96-well U-bottom plate, leaving the remaining 100 μL of the medium in each well.
+107 Pour 14 mL of fresh E6 into a 25 mL reservoir.
+108 Using a multichannel pipette, add 100 μL of fresh E6 into each well, making a final volume of 200 μL per well.
+109 Gently tap the plates to mix the medium.
+110 Incubate in a 37 °C incubator with 5.0% CO 2.
+111 Monitor morphological changes every day.
+112 On day 11, thaw 630 μL of Matrigel on ice overnight at 4 °C.
+113 Place and prechill 100 mm Petri dishes and 24-well low-attachment plates on ice.
+114 Prepare 63 mL of OMM1%M, and keep on ice. Note that the OMM1%M is composed of 1% Matrigel (vol/vol) in OMM.
+115 Prepare 3 mL of Advanced DMEM/F12 medium in a 15 mL tube for washing steps.
+116 Collect all aggregates except the ones in the first and last rows and columns of 96-well U-bottom plates in a 2 mL round-bottom tube as described below:
+116.1 Using a p1000 W-O tip, transfer all aggregates individually to a 100 mm Petri dish at RT.
+116.2 By gently swirling the dish on a flat surface, concentrate all aggregates to the center of the dish.
+116.3 Using a p1000 W-O tip, collect all aggregates into a 2 mL round-bottom tube.
+117 Carefully remove the excessive medium.
+118 Wash aggregates with 1 mL of Advanced DMEM/F12 medium three times.
+119 After removing all excessive washing medium residues, place the tube with aggregates on ice.
+120 Add 1 mL of OMM1%M to the tube containing aggregates.
+121 Pour ~15 mL of OMM1%M to the prechilled Petri dish placed on ice.
+122 Using a p1000 W-O tip, transfer all aggregates that are prepared in Step 120 to the Petri dish containing ~15 mL of OMM1%M on ice in Step 121.
+123 Use an extra 1 mL of OMM1%M to collect and transfer any remaining aggregates in the tube to the Petri dish.
+124 Using a p1000 W-O tip, transfer individual aggregate in 500 μL of OMM1%M to each well in 24-well low-attachment plates (i.e., one aggregate per well in a total volume of 500 μL per well).
+125 Gently swirl to make sure each well is completely covered by medium and aggregates are not floating on the surface of the medium.
+126 Place the aggregates containing 24-well plates on an orbital shaker inside the incubator, and start constant agitation at a speed of 65 rpm.
+127 Incubate in a 37 °C incubator with 5.0% CO 2.
+128 Monitor morphological changes every 3 d.
+129 On day 14, thaw 320 μL of Matrigel on ice overnight at 4 °C.
+130 Prepare and prechill 32 mL of OMM1%M on ice.
+131 Remove 250 μL of spent medium from each well of the 24-well low-attachment plates, leaving ~250 μL per well.
+132 Add 250 μL of freshly prepared OMM1%M to each well, making a final volume of ~500 μL per well.
+133 Gently swirl the plates to evenly mix the medium.
+134 Incubate in a 37 °C incubator with 5.0% CO 2.
+135 Prepare 32 mL of fresh OMM (without Matrigel).
+136 Remove 250 μL of spent medium from each well of the 24-well low-attachment plates, leaving ~250 μL per well.
+137 Add 250 μL of freshly prepared OM to each well, making a final volume of ~500 μL per well.
+138 Gently swirl the plates to evenly mix the medium.
+139 Incubate in a 37 °C incubator with 5.0% CO 2.
+140 From differentiation day 18, perform a full medium change once every week by completely removing medium (500 μL) from each well and adding back fresh medium (500 μL). Within that one week, for experiments up to differentiation day 45, perform half medium changes every 3 d (i.e., full medium change on Monday, half medium changes on Thursday and Sunday, then full medium change on Tuesday). For longer experiments after differentiation day 45, perform half medium changes every other day. Also, based on the organoid sizes (i.e., larger) and medium consumption rate (i.e., color of medium changing to yellow), increase total volume to 1 mL per well to provide proper nutrition. Culture up to 150 d (see ‘Anticipated results’ for indicators of culture termination).
+141 At appropriate timepoints, cells can be dissociated (option A) or organoids can be prepared for cryo-embedding, sectioning and immunostaining (option B) or whole-mount immunostaining with tissue clearing, using quick Ce3D (qCe3D, option C).
