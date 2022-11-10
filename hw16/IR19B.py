@@ -17,6 +17,7 @@ docs = f.readlines()
 f.close()
 N = 1000
 firstk = docs[0:N]
+firstk2 = firstk+firstk
 
 cv = TfidfVectorizer(max_df=0.4, min_df=3)
 X = cv.fit_transform(firstk)
@@ -32,10 +33,12 @@ cm = confusion_matrix(y1, y2)
 
 disp = ConfusionMatrixDisplay(cm)
 disp.plot()
-plt.show()
 
 cm2 = cm * 2 # Exercise 16.3: replace every point d with two identical copies
+disp = ConfusionMatrixDisplay(cm2)
+disp.plot()
 
+plt.show()
 # You code to compute and print NMI, RI, and purity(in two ways)
 # see slide 11/3/15 for purity calculation
 # Then run the same on cm2 so you get the answer to Exercise 16.3 (ii)
@@ -49,7 +52,15 @@ n = np.sum(cm)
 purity_score = a0/n
 transpose_purity_score = a1/n
 
+a0 = np.sum(np.amax(cm2, axis=0))
+a1 = np.sum(np.amax(cm2, axis=1))
+n = np.sum(cm2)
+purity_score_2 = a0/n
+transpose_purity_score_2 = a1/n
+
 print(f'NMI score: {nmi_score}')
 print(f'Rand index score: {ri_score}')
 print(f'purity score: {purity_score}')
 print(f'pruity score on transpose matrix: {transpose_purity_score}')
+print(f'purity score with copy: {purity_score_2}')
+print(f'pruity score on transpose matrix with copy: {transpose_purity_score_2}')
