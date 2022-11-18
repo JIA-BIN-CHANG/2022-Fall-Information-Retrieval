@@ -24,9 +24,9 @@ svd_model = TruncatedSVD(n_components=5)
 W = svd_model.fit_transform(X).T
 H = svd_model.components_
 
-# lda_model = LatentDirichletAllocation(n_components=5)
-# W = lda_model.fit_transform(X).T
-# H = lda_model.components_
+lda_model = LatentDirichletAllocation(n_components=5)
+W = lda_model.fit_transform(X).T
+H = lda_model.components_
 
 from wordcloud import WordCloud
 
@@ -39,5 +39,6 @@ for topic in range(5):
     wc.generate_from_frequencies(size)
     plt.imshow(wc, interpolation='bilinear')
     plt.axis("off")
-    plt.show()
+    plt.savefig(f'nmf_top_{topic+1}.png')
+    # plt.show()
 
