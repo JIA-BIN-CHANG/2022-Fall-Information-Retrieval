@@ -4,7 +4,7 @@
 
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.decomposition import NMF
+from sklearn.decomposition import NMF, TruncatedSVD, LatentDirichletAllocation
 from matplotlib import pyplot as plt
 
 f = open("bible.txt", "r")
@@ -16,9 +16,17 @@ vectorizer = TfidfVectorizer(max_df=1000, min_df=100)
 X = vectorizer.fit_transform(docs)
 words = vectorizer.get_feature_names()
 
-nmf_model = NMF(n_components=5, init='nndsvda')
-W = nmf_model.fit_transform(X).T
-H = nmf_model.components_
+# nmf_model = NMF(n_components=5, init='nndsvda')
+# W = nmf_model.fit_transform(X).T
+# H = nmf_model.components_
+
+svd_model = TruncatedSVD(n_components=5)
+W = svd_model.fit_transform(X).T
+H = svd_model.components_
+
+# lda_model = LatentDirichletAllocation(n_components=5)
+# W = lda_model.fit_transform(X).T
+# H = lda_model.components_
 
 from wordcloud import WordCloud
 
